@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: notesapp
-        image: rashmidevops1/my-note-app:green
+        image: 93anil/my-note-app:green
         ports:
         - containerPort: 8000
